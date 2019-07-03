@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Avatar",
+    "image": "avatar.jpg",
+    "rating": 0
+  },
+  {
+    "id": 2,
+    "name": "Hannibal",
+    "image": "hannibal.jpg",
+    "rating": 0
+  },
+  {
+    "id": 3,
+    "name": "Harry Potter",
+    "image": "harrypotter.jpg",
+    "rating": 0
+  },
+  {
+    "id": 4,
+    "name": "Inception",
+    "image": "inception.jpg",
+    "rating": 0
+  },
+  {
+    "id": 5,
+    "name": "James Bond",
+    "image": "jamesbond.jpg",
+    "rating": 0
+  },
+  {
+    "id": 6,
+    "name": "Kill Bill",
+    "image": "killbill.jpg",
+    "rating": 0
+  },
+  {
+    "id": 7,
+    "name": "Lord of the Rings",
+    "image": "lotr.jpg",
+    "rating": 0
+  },
+  {
+    "id": 8,
+    "name": "Matrix",
+    "image": "matrix.jpg",
+    "rating": 0
+  },
+  {
+    "id": 9,
+    "name": "Moon",
+    "image": "moon.jpg",
+    "rating": 0
+  },
+  {
+    "id": 10,
+    "name": "2001 A Space Odyssey",
+    "image": "spaceodyssey.jpg",
+    "rating": 0
+  },
+  {
+    "id": 11,
+    "name": "Terminator",
+    "image": "terminator.jpg",
+    "rating": 0
+  },
+  {
+    "id": 12,
+    "name": "The Man From Earth",
+    "image": "themanfromearth.jpg",
+    "rating": 0
+  },
+  {
+    "id": 13,
+    "name": "Titanic",
+    "image": "titanic.jpg",
+    "rating": 0
+  },
+  {
+    "id": 14,
+    "name": "Mission Impossible",
+    "image": "missionimposible.jpg",
+    "rating": 0
+  },
+  {
+    "id": 15,
+    "name": "I Am Legend",
+    "image": "iamlegend.jpg",
+    "rating": 0
+  },
+  {
+    "id": 16,
+    "name": "Star Wars",
+    "image": "starwars.jpg",
+    "rating": 0
+  }
+]
